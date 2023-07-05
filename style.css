@@ -2,6 +2,18 @@
     margin-bottom: 300px;
 }
 
+.professional-spacing_ {
+    margin-bottom: 150px;
+}
+
+.canva-link {
+  font-size: 1px;
+  width: 20px;
+  height: 10px;
+  transform: scale(0.6);
+}
+
+
 .scroll-to-cv {
             position: absolute;
             top: 0;
@@ -117,3 +129,4 @@ header nav ul li a:hover {
     color: white;
     text-align: center;
 }
+
